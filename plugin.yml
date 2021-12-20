@@ -1,0 +1,10 @@
+name: EconomyAPI
+main: onebone\economyapi\EconomyAPI
+version: 4.0.0
+author: onebone(4.0 patch min)
+api: 4.0.0
+permissions:
+  eco.true:
+    default: true
+  eco.op:
+    default: op
